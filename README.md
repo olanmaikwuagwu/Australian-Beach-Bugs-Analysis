@@ -3,6 +3,9 @@
 ## Project Overview
 The aim of the project is to understand the distribution of the enterococci bacteria in 11 Australian beaches. From the analysis, we will deduce the councils with the cleanest beaches and draw some correlations between environmental factors and bacteria presence.
 
+<img width="596" alt="BB VIZ" src="https://github.com/user-attachments/assets/b2ff0668-e296-4bd3-9ddf-f752c3fdf1f8">
+
+
 ## Data Source
 The dataset was obtained from the NSW Office of Environment and Heritage who compiled the enterococci count between 2013 to 2018. This effort was part of the Beachwatch Water Quality Program. The csv file can be accessed [here](https://bit.ly/4fhQnHS).
 
