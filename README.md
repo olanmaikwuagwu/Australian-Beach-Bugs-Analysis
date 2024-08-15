@@ -9,7 +9,7 @@ The aim of the project is to understand the distribution of the enterococci bact
 ## Data Source
 The dataset was obtained from the NSW Office of Environment and Heritage who compiled the enterococci count between 2013 to 2018. This effort was part of the Beachwatch Water Quality Program. The csv file can be accessed [here](https://bit.ly/4fhQnHS).
 
-  ## Tools
+  ## Tools 
   - Excel
   - MySQL
   - Microsoft Power BI
