@@ -39,9 +39,11 @@ The dataset was obtained from the NSW Office of Environment and Heritage who com
 - Results: The analysis revealed the following results:
    - Malabar beach in the Randwick council has an excessive presence of the enterococci bacteria, indicating a high level of sewage pollution.
    - The Randwick council does a poor job at keeping their beaches clean compared to the Waverley council which has neater beaches.
-   - Little Bay beach recorded the highest single value of bacteria in a day (sunday).
+   - Little Bay beach recorded the highest single value of bacteria in a day (sunday). The spike in bacteria on a Sunday might indicate increased human activity over the 
+     weekend, leading to higher contamination from beachgoers.
    - Coogee beach has more bacteria count than Bondi.
-   - June 2013 recorded the highest bacteria count while September 2014 recorded the lowest.
+   - June 2013 recorded the highest bacteria count while September 2014 recorded the lowest. We may deduce that weather conditions (rainfall, temperature, and tides) 
+     significantly impact contamination levels. Rainier months may lead to increased runoff carrying pollutants into the water.
    - Overall, fridays had the greatest bacteria count while saturdays had the lowest.
 
 - Limitations: Some limitations of this dataset are;
